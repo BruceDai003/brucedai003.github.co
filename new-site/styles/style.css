@@ -1,0 +1,39 @@
+li:hover{
+	color: red;
+	background-color: #3FA5BF;
+}
+html{
+	font-size: 10px; 
+	font-family: 'Source Sans Pro', sans-serif;
+	background-color: #447EE3;
+}
+h1{
+	font-size: 60px;
+	text-align:	center;
+	color: green;
+	margin: 0;
+	padding: 0 0;
+	text-shadow: 3px 3px 10px black;
+}
+p, li{
+	font-size:	16px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+body{
+	width:	550px;
+	margin: 0 auto;
+	background-color: #F7C163;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+img{
+	padding: auto;
+	margin: 0 auto;
+	display: block;
+}
+button{
+	color: red;
+	font-size: 24px;
+}
+
